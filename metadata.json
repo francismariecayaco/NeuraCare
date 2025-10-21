@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NeuraCare",
+  "description": "A compassionate AI companion designed to support mental wellness. Engage in real-time conversations, track your mood through an intelligent journal, and chat with a helpful assistant to navigate feelings of anxiety and depression in a safe, supportive space.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
